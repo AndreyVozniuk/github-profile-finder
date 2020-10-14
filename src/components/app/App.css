@@ -1,0 +1,14 @@
+.search{
+  display: flex;
+  align-items: center;
+}
+.search > input{
+  width: 250px;
+}
+.profile > img{
+  width: 180px;
+}
+.info{
+  margin-top: 5px;
+  font-size: 1.5em;
+}
